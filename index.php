@@ -124,73 +124,114 @@ $heightvid=$widthvid/1.4;
       </div>
 
       <!-- -------------------------------------------------------------------------------- -->
-      <!-- ENLACES DE INTERÉS -->
-      <!-- -------------------------------------------------------------------------------- -->
-      <div class="section">
-
-	<a name="enlaces"><h2>Enlaces</h2></a>
-
-	<ul>
-	  
-	  <li style="font-size:16px;font-weight:bold;">
-	    Programación 2016-1: 
-	    <a href=http://bit.ly/if-carga-2016-1 target=_blank>http://bit.ly/if-carga-2016-1</a>
-	  </li>
-
-	  <li>
-	    Sistema de Solicitudes, SSOFI: 
-	    <a href=http://bit.ly/ssofi target=_blank>http://bit.ly/ssofi</a>
-	  </li>
-
-	  <li>
-	    Sistema Integrado de Información Curricular, <b>SInfin</b><sup style="font-style:italic;color:green;">New</sup>:
-	    <a href=http://bit.ly/fcen-sinfin target=_blank>http://bit.ly/fcen-sinfin</a>
-	  </li>
-
-	  <li>
-	    Solicitud de reconocimientos y homologaciones:
-	    <a href=http://bit.ly/fcen-reconocimientos target=_blank>http://bit.ly/fcen-reconocimientos</a>
-	  </li>
-
-	  <li> Listas de correo: si no esta recibiendo correos de la
-	    coordinación o la Facultad inscríbase en una de las listas
-	    de correos enumeradas aquí.  Para hacerlo debe tener una
-	    cuenta en google (se recomienda usar la cuenta de correo
-	    de la Universidad).  Si no tiene todavía su cuenta
-	    institucional y tampoco tiene una cuenta de correo en
-	    gmail, abra una cuenta en google con su dirección de
-	    correo electrónico actual.<br/><br/>
-
-	    <ul>
-	      <li>Lista de correo de estudiantes de pregrado de Física:
-		<a href=http://bit.ly/correo-fisica target=_blank>http://bit.ly/correos-fisica</a>
-	      </li>
-	      <li>Lista de correo de estudiantes de pregrado de astronomía:
-		<a href=http://bit.ly/correo-astronomia target=_blank>http://bit.ly/correo-astronomia</a>
-	      </li>
-	      <li>Lista de correo de profesores de cátedra del Instituto de Física:
-		<a href=http://bit.ly/correos-catedra target=_blank>http://bit.ly/correos-catedra</a>
-	      </li>
-	      <li>Lista de correo de egresados del pregrado de astronomía:
-		<a href=http://bit.ly/correo-egresados-astronomia target=_blank>http://bit.ly/correo-egresados-astronomia</a>
-	      </li>
-	      <li>Lista de correo de egresados del pregrado de física:
-		<a href=http://bit.ly/correo-egresados-fisica target=_blank>http://bit.ly/correo-egresados-fisica</a>
-	      </li>
-	    </ul>
-
-	  </li>
-	  
-	</ul>
-
-      </div>
-
-      <!-- -------------------------------------------------------------------------------- -->
       <!-- CONVOCATORIAS -->
       <!-- -------------------------------------------------------------------------------- -->
       <div class="section">
 
 	<a name="convocatorias"><h2>Convocatorias</h2></a>
+
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Octubre 18/2016, Finalización de Semestre
+	  </div>
+	  <p class="convocatoria-contenido">
+	    A cerca de un mes de finalizar el semestre hay una serie
+	    de procesos administrativos que deben realizarse con la
+	    debida anticipación.  Para facilitar estos procesos el
+	    comité de currículo de la FCEN y la coordinación de
+	    pregrado del Instituto de Física han habilidato una serie
+	    de mecanismos en línea.  
+	    procesos:
+	    <ul>
+	      <li>Inscripción en el II Simposio FCEN (sustentación de
+	      trabajos de
+	      grado): <a href="http://bit.ly/fcen-simposio-inscripcion">http://bit.ly/fcen-simposio-inscripcion</a></li>
+	      <li>Matrícula de cursos
+	      intensivos: (Pendiente).</li>
+	      <li>Presentación de proyectos de trabajo de grado: (Pendiente).</li>
+	      <li>Presentación de manuscritos de trabajo de grado: (Pendiente).</li>
+	      <li>Reconocimientos y homologaciones de materias vistas
+	      antes de 2016-2: (Pendiente).</li>
+	      <li>Propuesta de nuevos cursos electivos: (Pendiente).</li>
+	      <li>Propuesta de trabajos de grado meritorios: (Pendiente).</li>
+	    </ul>
+	  </p>
+	</div>
+
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Septiembre 22/2016, Convocatoria para inscripción en el II Simposio FCEN
+	  </div>
+	  <p class="convocatoria-contenido">
+	    Están abiertas las inscripciones para el II Simposio FCEN
+	    en el que se presentan los trabajos de grado desarrollados
+	    por los estudiantes de la Facultad de Ciencias Exactas y
+	    Naturales que terminan en el semestre 2016-2.  El enlace
+	    para la inscripción en el Simposio es:
+	    <a href="http://bit.ly/fcen-simposio-inscripcion">http://bit.ly/fcen-simposio-inscripcion</a>
+	  </p>
+	</div>
+
+	<!--
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Jul. 15/2016, Grupos habilitados de Fundamentación en Matemáticas 
+	  </div>
+	  <p class="convocatoria-contenido">
+	     Se informa que los grupos habilitados del curso
+	     Fundamentación en Matemáticas para los estudiantes de los
+	     programas de Física y Astronomía son los Grupos del 5 al
+	     8.  Se recomienda a todos los estudiantes de estos
+	     programas matricularse únicamente en estos grupos.  En
+	     caso de no alcanzar cupo pueden matricularse en el grupo
+	     de lista de espera 55.
+	  </p>
+	</div>
+
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Jul. 14/2016, Inconvenientes con oferta y con matrícula
+	  </div>
+	  <p class="convocatoria-contenido">
+	     Los estudiantes que tengan inconvenientes con la oferta de matrícula o con la matrícula pueden hacernos saber de los inconvenientes usando el siguiente formulario:<a href=http://bit.ly/fcen-inconvenientes>http://bit.ly/fcen-inconvenientes</a>.  Debe aclararse que el coordinador de pregrado no puede hacer nada para resolver los inconvenientes más que informar de los mismos a Admisiones y Registro.
+	  </p>
+	</div>
+
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Jul. 12/2016, Seminarios y Trabajo de Grado
+	  </div>
+	  <p class="convocatoria-contenido">
+	     Los estudiantes que vayan a matricular los cursos de Seminario de Trabajo de Grado, Seminario III, Lectura Dirigida y Trabajo de Grado deben llenar los formularios de inscripción o presentación del proyecto de trabajo de grado. Ver <a href=#formularios>Formularios</a>.  El plazo para la inscripción y el envío del proyecto es el sábado Julio 16 de 2016.
+	  </p>
+	</div>
+	-->
+
+	<!--
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Mar. 30/2016, Cancelaciones
+	  </div>
+	  <p class="convocatoria-contenido">
+	     A todos los estudiantes que esten contemplando cancelar asignaturas o semestre se les recuerda que en esta pagina encontraran publicada una Guia para la Cancelacion.  Alli se explica cuando se recomienda usar y cuando no este mecanismo.  Adicionalmente se explica como realizar el procedimiento en SSOFI y como llenar los formularios. Ver <a href=#documentos>Documentos</a>.
+	  </p>
+	</div>
+
+	<div class="convocatoria">
+	  <div class="convocatoria-title">
+	    Feb.29/2016, Conferencia "Sobre años bisiestos y otras curiosidades del calendario"
+	  </div>
+	  <p class="convocatoria-contenido">
+	    A propósito de la fecha más curiosa del calendario el
+	    <b>Solar, Earth and Planetary Physics Group</b> y
+	    el <b>Semillero de Investigación en Astronomía y Física
+	    Solar</b>, invitan a una conferencia sobre el calendario y
+	    el origen de los años bisiestos.  La conferencia se
+	    realizará en el <b style=color:red>Salón Planetario,
+	    Planetario de Medellín</b>, a las 6:30 p.m.
+	  </p>
+	</div>
+	-->
 
 	<!--
 	<div class="convocatoria">
@@ -325,6 +366,7 @@ $heightvid=$widthvid/1.4;
 	</div>
 	-->
 
+	<!--
 	<div class="convocatoria">
 	  <div class="convocatoria-title">
 	    Feb.1/2016, Entrega de trabajos de grado
@@ -339,6 +381,77 @@ $heightvid=$widthvid/1.4;
 	    Facultad. Ver <a href=#formularios>Formularios</a>.
 	  </p>
 	</div>
+	-->
+
+      </div>
+
+      <!-- -------------------------------------------------------------------------------- -->
+      <!-- ENLACES DE INTERÉS -->
+      <!-- -------------------------------------------------------------------------------- -->
+      <div class="section">
+
+	<a name="enlaces"><h2>Enlaces</h2></a>
+
+	<ul>
+	  
+	  <li>
+	    Sistema de Solicitudes, <b>SSOFI</b>: 
+	    <ul>
+	    <li>Sitio: <a href=http://bit.ly/ssofi target=_blank>http://bit.ly/ssofi</a></li>
+	    <li>Ayuda: <a href=http://bit.ly/ssofi-ayuda target=_blank>http://bit.ly/ssofi-ayuda</a></li>
+	    </ul>
+	  </li>
+
+	  <li>
+	    Sistema Integrado de Información Curricular, <b>SInfin</b><sup style="font-style:italic;color:green;">New</sup>:
+	    <a href=http://bit.ly/fcen-sinfin target=_blank>http://bit.ly/fcen-sinfin</a>
+	  </li>
+
+	  <li>
+	    Solicitud de reconocimientos y homologaciones:
+	    <a href=http://bit.ly/fcen-reconocimientos target=_blank>http://bit.ly/fcen-reconocimientos</a>
+	  </li>
+
+	  <li> Listas de correo: si no esta recibiendo correos de la
+	    coordinación o la Facultad inscríbase en una de las listas
+	    de correos enumeradas aquí.  Para hacerlo debe tener una
+	    cuenta en google (se recomienda usar la cuenta de correo
+	    de la Universidad).  Si no tiene todavía su cuenta
+	    institucional y tampoco tiene una cuenta de correo en
+	    gmail, abra una cuenta en google con su dirección de
+	    correo electrónico actual.<br/><br/>
+
+	    <ul>
+	      <li>Lista de correo de estudiantes de pregrado de Física:
+		<a href=http://bit.ly/correo-fisica target=_blank>http://bit.ly/correos-fisica</a>
+	      </li>
+	      <li>Lista de correo de estudiantes de pregrado de astronomía:
+		<a href=http://bit.ly/correo-astronomia target=_blank>http://bit.ly/correo-astronomia</a>
+	      </li>
+	      <li>Lista de correo de profesores de cátedra del Instituto de Física:
+		<a href=http://bit.ly/correos-catedra target=_blank>http://bit.ly/correos-catedra</a>
+	      </li>
+	      <li>Lista de correo de egresados del pregrado de astronomía:
+		<a href=http://bit.ly/correo-egresados-astronomia target=_blank>http://bit.ly/correo-egresados-astronomia</a>
+	      </li>
+	      <li>Lista de correo de egresados del pregrado de física:
+		<a href=http://bit.ly/correo-egresados-fisica target=_blank>http://bit.ly/correo-egresados-fisica</a>
+	      </li>
+	    </ul>
+
+	  </li>
+	  
+	  <li>Sistema de Solicitud de Comisiones: <a href=http://bit.ly/fcen-comisiones target=_blank>http://bit.ly/fcen-comisiones</a></li>
+
+	  <li>Calendario de semestre: <a href=http://bit.ly/fcen-calendario target=_blank>http://bit.ly/fcen-calendario</a></li>
+
+	  <li>Programación de Cursos: <a href=http://bit.ly/fcen-calendario target=_blank>http://bit.ly/fcen-calendario</a></li>
+
+	  <li>Fechas claves para la realización de procedimientos administrativos: <a href=http://bit.ly/if-fechas target=_blank>http://bit.ly/if-fechas</a></li>
+
+	  <li>Actas del comité de Pregrado: Repositorio oficial <a href=http://bit.ly/if-normativa target=_blank>http://bit.ly/if-normativa</a>, Repositorio local (mas actualizado) <a href=http://bit.ly/if-compre-actas target=_blank>http://bit.ly/if-compre-actas</a></li>
+
+	</ul>
 
       </div>
 
@@ -351,6 +464,13 @@ $heightvid=$widthvid/1.4;
 
 	<ul>
 	  
+	  <li>
+
+	    Guia de Cancelaciones.  Este es un documento que explica detalladamente como se realiza el procedimiento de cancelacion.
+
+	    <a href=doc/Guia-Cancelaciones.pdf target=_blank>Guia de cancelaciones</a>
+	  </li>
+
 	  <li>
 	    Planes de estudio de los Programas del Instituto: 
 	    <a href=http://bit.ly/if-pensums target=_blank>http://bit.ly/if-pensums</a>
@@ -386,11 +506,31 @@ $heightvid=$widthvid/1.4;
 	puede ser usada posteriormente para realizar informes o
 	levantar estadísticas.</p>
 
-	<p>Formularios temporales:</p>
+	<p>Formularios permanentes:</p>
 
 	<ul>
 
 	  <li>
+	    Entrega de Trabajos de Grado. 
+	    <a href=http://bit.ly/if-form-trabajogrado target=_blank>
+	      http://bit.ly/if-form-trabajogrado
+	    </a>
+	  </li>
+
+	  <li>
+	    Ausencia de profesores de cátedra.
+	    <a href=http://bit.ly/if-form-ausencia-catedra target=_blank>
+	      http://bit.ly/if-form-ausencia-catedra
+	    </a>
+	  </li>
+
+	</ul>
+
+	<p>Formularios temporales:</p>
+
+	<ul>
+
+	  <!--<li>
 	    Encuesta del Proceso de Matrícula
 	    <a href=http://bit.ly/fcen-form-matricula target=_blank>
 	      http://bit.ly/fcen-form-matricula
@@ -424,30 +564,9 @@ $heightvid=$widthvid/1.4;
 	      http://bit.ly/if-form-faq
 	    </a>
 	  </li>
-	  
+	  -->
 	</ul>
 	  
-	<p>Formularios permanentes:</p>
-
-	<ul>
-
-	  <li>
-	    Entrega de Trabajos de Grado. 
-	    <a href=http://bit.ly/if-form-trabajogrado target=_blank>
-	      http://bit.ly/if-form-trabajogrado
-	    </a>
-	  </li>
-
-
-	  <li>
-	    Ausencia de profesores de cátedra.
-	    <a href=http://bit.ly/if-form-ausencia-catedra target=_blank>
-	      http://bit.ly/if-form-ausencia-catedra
-	    </a>
-	  </li>
-
-	</ul>
-
       </div>
 
       <!-- -------------------------------------------------------------------------------- -->
@@ -459,6 +578,26 @@ $heightvid=$widthvid/1.4;
 
 	<ul>
 	  
+	  <li>
+	    ¿Cómo usar SSOFI?:
+	    <div style="text-align:center;padding:10px">
+	      <iframe width="<?php echo $widthvid?>" height="<?php echo $heightvid?>" 
+		      src="https://www.youtube.com/embed/ze7L0Bu8ea4" 
+		      frameborder="0" allowfullscreen>
+	      </iframe>	      
+	    </div>
+	  </li>
+	  
+	  <li>
+	    ¿Cómo solicitar un reconocimiento de materias?:
+	    <div style="text-align:center;padding:10px">
+	      <iframe width="<?php echo $widthvid?>" height="<?php echo $heightvid?>" 
+		      src="https://www.youtube.com/embed/O85cGBINggU" 
+		      frameborder="0" allowfullscreen>
+	      </iframe>	      
+	    </div>
+	  </li>
+
 	  <li>
 	    Presentación de los Grupos de Investigación del Instituto de Física (2015-2016):
 	    <a href=http://bit.ly/if-video-grupos target=_blank>http://bit.ly/if-video-grupos</a> 
@@ -481,16 +620,6 @@ $heightvid=$widthvid/1.4;
 	    </div>
 	  </li>
 
-	  <li>
-	    ¿Cómo solicitar un reconocimiento de materias?:
-	    <div style="text-align:center;padding:10px">
-	      <iframe width="<?php echo $widthvid?>" height="<?php echo $heightvid?>" 
-		      src="https://www.youtube.com/embed/O85cGBINggU" 
-		      frameborder="0" allowfullscreen>
-	      </iframe>	      
-	    </div>
-	  </li>
-	  
 	</ul>
 
       </div>
